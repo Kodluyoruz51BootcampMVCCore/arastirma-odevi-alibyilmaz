@@ -2,7 +2,7 @@
 
 # Kodluyoruz Bootcamp Ödevler / Week 1
 
-1) Devler Azure&#39;da Atölye Notları: [https://github.com/Kodluyoruz51BootcampMVCCore/arastirma-odevi-alibyilmaz/blob/master/Devler%20Azure'da%20Notlar.md](https://github.com/Kodluyoruz51BootcampMVCCore/arastirma-odevi-alibyilmaz/blob/master/Devler%20Azure'da%20Notlar.md)
+1) Devler Azure&#39;da Atölye Notları: [Devler Azure'da Atölye Notları](https://github.com/Kodluyoruz51BootcampMVCCore/arastirma-odevi-alibyilmaz/blob/master/Devler%20Azure'da%20Notlar.md) 
 
 - Mehmet Kut - Microsoft Türkiye, Azure Teknik Eğitmen Azure DevOps ile uygulama derleme ve dağıtma
 - Daron Yöndem – XOGO CTO, Microsoft Regional Director, Azure and AI MVP Serverless AI
